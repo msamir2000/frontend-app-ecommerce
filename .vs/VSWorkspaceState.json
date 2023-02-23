@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\order-history"
   ],
+  "SelectedNode": "\\src\\order-history\\service.js",
   "PreviewInSolutionExplorer": false
 }
